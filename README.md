@@ -24,8 +24,8 @@ The following guides illustrate how to use some features concretely:
 
 
 ## Created Player and Bot entities using mysql, jdbc
-<img title="Player entity" alt="player" src="C:\Users\visha\OneDrive\Desktop\java\springboot_projects\tictactoe\player_entity.jpg">
+<img title="Player entity" alt="player" src="player_entity.jpg">
  
 
-<img title="Bot entity" alt="bot" src="C:\Users\visha\OneDrive\Desktop\java\springboot_projects\tictactoe\bot_entity.jpg">
+<img title="Bot entity" alt="bot" src="bot_entity.jpg">
 
